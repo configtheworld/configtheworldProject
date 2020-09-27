@@ -5,35 +5,27 @@
 ### Used Technologies 
 Main back-end technologies:
 
-* [NodeJs]
-* [Express]
+* NodeJs
+* Express
 
 Database
-* [MongoDB]
-* [Mongoose]
+* MongoDB
+* Mongoose
 
-npm packages
+Authentication method
+* passport-local
 
-* ["body-parser": "^1.19.0",]
-* [    "connect-flash": "^0.1.1",]
-* [    "cookie-parser": "^1.4.5",]
-* [    "dotenv": "^8.2.0",]
-* [ "ejs": "^3.1.5",]
-* [    "eval": "^0.1.4"]
-* [    "express": "^4.17.1",]
-* [    "express-sanitizer": "^1.0.5",]
-* [    "express-session": "^1.17.1",]
-* [    "locus": "^2.0.4",]
-* [    "method-override": "^3.0.0",]
-* [    "moment": "^2.28.0",]
-* [    "mongoose": "^5.10.2",]
-* [    "passport": "^0.4.1",]
-* [    "passport-local": "^1.0.0",]
-* [    "passport-local-mongoose": "^6.0.1"]
+Front-End
+* Bootstrap 4
+* Css
+* Javascript
+* HTML
+* fontawesome 4
+* ...
 
 ### Installation
 
-Configtheworld requires [Node.js](https://nodejs.org/) v4+ to run.
+Configtheworld requires [Node.js](https://nodejs.org/).
 
 Install the dependencies and devDependencies and start the server.
 
