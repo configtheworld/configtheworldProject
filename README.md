@@ -1,4 +1,4 @@
-# configtheworld (PROJECT)
+# configtheworld (PROJECT1)
 ### What is configtheworld?
 #### Besides its my github username.It is actually personal project but why not be in usage. Anyway This is the platform which you can find news, articles and tutorials about technology and lifestyle.
 
